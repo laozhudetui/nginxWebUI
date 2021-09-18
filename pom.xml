@@ -10,7 +10,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.4</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
@@ -70,7 +70,7 @@
 		<dependency>
 			<groupId>com.github.oshi</groupId>
 			<artifactId>oshi-core</artifactId>
-			<version>5.3.0</version>
+			<version>5.8.1</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-io</groupId>
